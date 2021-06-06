@@ -78,7 +78,7 @@ Results can be seen at below.
 ![image](https://user-images.githubusercontent.com/70862043/120936444-7322d980-c710-11eb-94ed-24ffece2924b.png)
 
  
-## Summary
+## Summary 
 
 We tried different models to classify our dataset. We believe decision tree model outperforms others in this dataset. Therefore, we fine-tuned that and tested again. Consequently, we achieved around %94 accuracy as a best result. 
 
